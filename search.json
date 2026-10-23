@@ -1,0 +1,10 @@
+{
+  "name": "Meublé 2 ch ≤ 2 200 € (zone Bruxelles)",
+  "search_url": "https://www.immoweb.be/fr/recherche/maison-et-appartement/a-louer?countries=BE&geoSearchAreas=sfguHsvtYpNb|Axu@~z@`fAlc@blAyJtwAg}AaE_`Gao@{wAgsCjpAkeAtcBoa@hoA&isFurnished=true&maxPrice=2200&minBedroomCount=2&orderBy=newest",
+  "max_pages": 5,
+  "smtp_host": "smtp.zoho.eu",
+  "smtp_port": 465,
+  "smtp_user": "hello@aurelienowe.com",
+  "sender_name": "Alerte Immoweb",
+  "failure_alert_after": 3
+}
