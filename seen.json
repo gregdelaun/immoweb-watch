@@ -1,6 +1,6 @@
 {
  "failures": 0,
- "last_run": "2026-10-24T08:01:38+00:00",
+ "last_run": "2026-10-24T12:37:59+00:00",
  "online": 36,
  "seeded": true,
  "seen": {
@@ -615,6 +615,24 @@
    "title": "Magnifique appartement 2 chambres meublé avec 2 terrasses",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21937625"
+  },
+  "21941133": {
+   "agency": "VICTOIRE JUNOT - Location",
+   "bedrooms": 2,
+   "costs": 250,
+   "epc": "D",
+   "id": 21941133,
+   "image": "https://media-resize.immowebstatic.be/classifieds/ad4d4ff5-e228-466d-8f0b-a5d922baadc4/736x736/55a5b70ad9e4c37b263d16a9b5dd8b55.jpg",
+   "locality": "Uccle",
+   "postal": "1180",
+   "price_label": "2 000 € (+ 250 €)",
+   "rent": 2000,
+   "seen_at": "2026-10-24T12:37:56+00:00",
+   "street": "DRÈVE DU SÉNÉCHAL 2",
+   "surface": 105,
+   "title": "Vivier d'Oie - Bel appartement rénové et joliment meublé 2 c",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21941133"
   },
   "7192948": {
    "agency": "Expressimmo SA",
