@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-10-26T06:39:00+00:00",
- "online": 36,
+ "last_run": "2026-10-26T13:33:59+00:00",
+ "online": 38,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -57,6 +57,24 @@
    "title": "Maison en colocation de 6 chambres",
    "type": "FLAT_STUDIO",
    "url": "https://www.immoweb.be/fr/annonce/21715607"
+  },
+  "21716514": {
+   "agency": "Address Real Estate",
+   "bedrooms": 2,
+   "costs": 300,
+   "epc": "E",
+   "id": 21716514,
+   "image": "https://media-resize.immowebstatic.be/classifieds/59915c17-aef8-45d0-b623-19323c04719a/736x736/f71f1a5be6b2c222cb3a4a9034c17b98.jpg",
+   "locality": "IXELLES",
+   "postal": "1050",
+   "price_label": "1 450 € (+ 300 €)",
+   "rent": 1450,
+   "seen_at": "2026-10-26T13:33:57+00:00",
+   "street": "Rue de Tenbosch 119",
+   "surface": null,
+   "title": "Rez de chaussée meublé proche Chatelain",
+   "type": "GROUND_FLOOR",
+   "url": "https://www.immoweb.be/fr/annonce/21716514"
   },
   "21724116": {
    "agency": "DOMS DE LOOZ",
@@ -633,6 +651,42 @@
    "title": "Vivier d'Oie - Bel appartement rénové et joliment meublé 2 c",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21941133"
+  },
+  "21942961": {
+   "agency": "BATHIM RESIDENTIAL",
+   "bedrooms": 2,
+   "costs": 335,
+   "epc": "C",
+   "id": 21942961,
+   "image": "https://media-resize.immowebstatic.be/classifieds/c4757794-f1ba-4846-9079-71841298e350/736x736/45f40409a37cc335512bf85d9fa5a113.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 890 € (+ 335 €)",
+   "rent": 1890,
+   "seen_at": "2026-10-26T13:33:57+00:00",
+   "street": "Avenue du Brésil 10",
+   "surface": 110,
+   "title": "Bois de la Cambre | Appartement entièrement rénové et meublé",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21942961"
+  },
+  "21943246": {
+   "agency": "Axess - Brussels East",
+   "bedrooms": 2,
+   "costs": 250,
+   "epc": "E",
+   "id": 21943246,
+   "image": "https://media-resize.immowebstatic.be/classifieds/f7513edd-aeff-49d8-9ac1-1b1198ced862/736x736/157376ac35ddbbc784e28c95e58d1b41.jpg",
+   "locality": "Bruxelles",
+   "postal": "1000",
+   "price_label": "1 500 € (+ 250 €)",
+   "rent": 1500,
+   "seen_at": "2026-10-26T13:33:57+00:00",
+   "street": "Avenue de la Foret 119",
+   "surface": 116,
+   "title": "HIPPODROME DE BOITSFORT: Vaste APP. 2 CH Meublé",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21943246"
   },
   "7192948": {
    "agency": "Expressimmo SA",
