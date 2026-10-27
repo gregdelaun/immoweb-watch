@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-10-27T07:48:51+00:00",
- "online": 38,
+ "last_run": "2026-10-27T13:39:08+00:00",
+ "online": 40,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -687,6 +687,42 @@
    "title": "HIPPODROME DE BOITSFORT: Vaste APP. 2 CH Meublé",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21943246"
+  },
+  "21946016": {
+   "agency": "VICTOIRE JUNOT - Location",
+   "bedrooms": 2,
+   "costs": 50,
+   "epc": "B",
+   "id": 21946016,
+   "image": "https://media-resize.immowebstatic.be/classifieds/e0278439-eec1-468c-a761-22e4c5aecdee/736x736/615e4933322474210e433288ce5bc385.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 950 € (+ 50 €)",
+   "rent": 1950,
+   "seen_at": "2026-10-27T13:39:05+00:00",
+   "street": "Square Robert Goldschmidt 60",
+   "surface": 90,
+   "title": "Cimetière d'Ixelles : Appartement meublé 2 chambres",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21946016"
+  },
+  "21946076": {
+   "agency": "VICTOIRE JUNOT - Location",
+   "bedrooms": 2,
+   "costs": 250,
+   "epc": "E",
+   "id": 21946076,
+   "image": "https://media-resize.immowebstatic.be/classifieds/d90ef43b-44bc-495f-bcc2-4bd62c2a3255/736x736/c935daa4ed621f148e849f98307ab6ca.jpg",
+   "locality": "Uccle",
+   "postal": "1180",
+   "price_label": "2 200 € (+ 250 €)",
+   "rent": 2200,
+   "seen_at": "2026-10-27T13:39:05+00:00",
+   "street": "AVENUE DU VERT CHASSEUR 27",
+   "surface": 112,
+   "title": "Uccle/Vert Chasseur:magnifique appartement renové et meublé",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21946076"
   },
   "7192948": {
    "agency": "Expressimmo SA",
