@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-10-29T11:44:35+00:00",
- "online": 36,
+ "last_run": "2026-10-29T17:34:53+00:00",
+ "online": 37,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -723,6 +723,24 @@
    "title": "Uccle/Vert Chasseur:magnifique appartement renové et meublé",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21946076"
+  },
+  "21953113": {
+   "agency": "BATHIM RESIDENTIAL",
+   "bedrooms": 2,
+   "costs": 335,
+   "epc": "C",
+   "id": 21953113,
+   "image": "https://media-resize.immowebstatic.be/classifieds/120b2cc4-2f99-4cf1-9b06-fd2af69d4f39/736x736/45f40409a37cc335512bf85d9fa5a113.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 890 € (+ 335 €)",
+   "rent": 1890,
+   "seen_at": "2026-10-29T17:34:48+00:00",
+   "street": "Avenue du Brésil 10",
+   "surface": 110,
+   "title": "Bois de la Cambre | Appartement entièrement rénové et meublé",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21953113"
   },
   "7192948": {
    "agency": "Expressimmo SA",
