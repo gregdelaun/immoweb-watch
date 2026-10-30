@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-10-30T14:33:47+00:00",
- "online": 36,
+ "last_run": "2026-10-30T19:39:34+00:00",
+ "online": 37,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -741,6 +741,24 @@
    "title": "Bois de la Cambre | Appartement entièrement rénové et meublé",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21953113"
+  },
+  "21956263": {
+   "agency": "Coldwell Banker Brussels South",
+   "bedrooms": 2,
+   "costs": 50,
+   "epc": "B",
+   "id": 21956263,
+   "image": "https://media-resize.immowebstatic.be/classifieds/24d41578-143a-4d97-995c-abad2eb196a3/736x736/7195f411cbd721ce9bfb4850ddf75b89.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 950 € (+ 50 €)",
+   "rent": 1950,
+   "seen_at": "2026-10-30T19:39:33+00:00",
+   "street": "SQUARE ROBERT GOLDSCHMIDT 60",
+   "surface": 88,
+   "title": "Appt. meublé 2CH 2SDB terrasse",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21956263"
   },
   "7192948": {
    "agency": "Expressimmo SA",
