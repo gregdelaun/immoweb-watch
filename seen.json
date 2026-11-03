@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-03T16:20:59+00:00",
- "online": 39,
+ "last_run": "2026-11-03T21:52:46+00:00",
+ "online": 40,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -885,6 +885,24 @@
    "title": "Appartement de caractère avec jardin privé à Brugmann",
    "type": "GROUND_FLOOR",
    "url": "https://www.immoweb.be/fr/annonce/21963049"
+  },
+  "21964161": {
+   "agency": "ORALIS Real Estate",
+   "bedrooms": 2,
+   "costs": 50,
+   "epc": "E",
+   "id": 21964161,
+   "image": "https://media-resize.immowebstatic.be/classifieds/0eb18dad-f4c2-47de-85aa-25fb77033279/736x736/bc97183bc7c0f0bcf6ebf771c55fda6f.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 950 € (+ 50 €)",
+   "rent": 1950,
+   "seen_at": "2026-11-03T21:52:44+00:00",
+   "street": "Rue Lesbroussart 11",
+   "surface": 80,
+   "title": "LESBROUSSART : Penthouse duplex meublé avec terrasse",
+   "type": "PENTHOUSE",
+   "url": "https://www.immoweb.be/fr/annonce/21964161"
   },
   "7192948": {
    "agency": "Expressimmo SA",
