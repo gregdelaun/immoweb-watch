@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-03T08:19:22+00:00",
- "online": 37,
+ "last_run": "2026-11-03T16:20:59+00:00",
+ "online": 39,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -849,6 +849,42 @@
    "title": "Ixelles - ULB - Bois de la Cambre",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21961611"
+  },
+  "21962416": {
+   "agency": "PRIVATE",
+   "bedrooms": 3,
+   "costs": 100,
+   "epc": "E",
+   "id": 21962416,
+   "image": "https://media-resize.immowebstatic.be/classifieds/cb09475b-b03f-4ea8-a144-f15b140431b7/736x736/6c5d31215ee2578ad5a97760f236ff2e.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "750 € (+ 100 €)",
+   "rent": 750,
+   "seen_at": "2026-11-03T16:20:57+00:00",
+   "street": "Rue Scarron 2",
+   "surface": 153,
+   "title": "Kots étudiants à proximité de la place Flagey",
+   "type": "HOUSE",
+   "url": "https://www.immoweb.be/fr/annonce/21962416"
+  },
+  "21963049": {
+   "agency": "PRIVATE",
+   "bedrooms": 2,
+   "costs": 250,
+   "epc": "E",
+   "id": 21963049,
+   "image": "https://media-resize.immowebstatic.be/classifieds/15d1f91f-6e3f-49e8-9829-adba487fbab7/736x736/dcda83b51ac9f37bfaf51c86612ddecd.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "2 100 € (+ 250 €)",
+   "rent": 2100,
+   "seen_at": "2026-11-03T16:20:57+00:00",
+   "street": "Rue Émile Bouilliot 2",
+   "surface": 150,
+   "title": "Appartement de caractère avec jardin privé à Brugmann",
+   "type": "GROUND_FLOOR",
+   "url": "https://www.immoweb.be/fr/annonce/21963049"
   },
   "7192948": {
    "agency": "Expressimmo SA",
