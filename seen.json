@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-02T18:52:37+00:00",
- "online": 36,
+ "last_run": "2026-11-03T01:26:24+00:00",
+ "online": 37,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -831,6 +831,24 @@
    "title": "3 chambres",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21960861"
+  },
+  "21961611": {
+   "agency": "Latour et Petit Location",
+   "bedrooms": 2,
+   "costs": 50,
+   "epc": "F",
+   "id": 21961611,
+   "image": "https://media-resize.immowebstatic.be/classifieds/9a7e346d-4328-45be-a40f-dd22b2f46cf2/736x736/6f7995d649c8b10e2e4a32c269da0373.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 950 € (+ 50 €)",
+   "rent": 1950,
+   "seen_at": "2026-11-03T01:26:22+00:00",
+   "street": "Square Goldschmidt 60",
+   "surface": 90,
+   "title": "Ixelles - ULB - Bois de la Cambre",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21961611"
   },
   "7192948": {
    "agency": "Expressimmo SA",
