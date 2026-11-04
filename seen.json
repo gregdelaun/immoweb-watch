@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-04T08:29:55+00:00",
- "online": 39,
+ "last_run": "2026-11-04T16:30:19+00:00",
+ "online": 42,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -904,6 +904,42 @@
    "type": "PENTHOUSE",
    "url": "https://www.immoweb.be/fr/annonce/21964161"
   },
+  "21965860": {
+   "agency": "Lambrecht Consult",
+   "bedrooms": 2,
+   "costs": 250,
+   "epc": "F",
+   "id": 21965860,
+   "image": "https://media-resize.immowebstatic.be/classifieds/4c6a1d0d-5547-4b46-baa8-d93c76a27127/736x736/a2583d61de51f7359b5d1cdfbd606d46.jpg",
+   "locality": "Uccle",
+   "postal": "1180",
+   "price_label": "1 500 € (+ 250 €)",
+   "rent": 1500,
+   "seen_at": "2026-11-04T16:30:17+00:00",
+   "street": "Rue Vanderkindere 566",
+   "surface": 85,
+   "title": "UCCLE : APPARTEMENT MEUBLE 2 CHAMBRES DANS IMMEUBLE ART DECO",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21965860"
+  },
+  "21966769": {
+   "agency": "Castell Management",
+   "bedrooms": 2,
+   "costs": 250,
+   "epc": "F",
+   "id": 21966769,
+   "image": "https://media-resize.immowebstatic.be/classifieds/fc68b8a5-1d0e-4ce9-b5ce-bf3825c54142/736x736/1ceb686c01c3e9de4d29e783659ba5a5.jpg",
+   "locality": "Bruxelles",
+   "postal": "1050",
+   "price_label": "1 500 € (+ 250 €)",
+   "rent": 1500,
+   "seen_at": "2026-11-04T16:30:17+00:00",
+   "street": "Avenue Louise 135",
+   "surface": 98,
+   "title": "Ixelles I Avenue Louise",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21966769"
+  },
   "7192948": {
    "agency": "Expressimmo SA",
    "bedrooms": 2,
@@ -939,6 +975,24 @@
    "title": "Magnifique maison Art Déco en colocation - Elise",
    "type": "FLAT_STUDIO",
    "url": "https://www.immoweb.be/fr/annonce/8719883"
+  },
+  "9140110": {
+   "agency": "IKOAB",
+   "bedrooms": 6,
+   "costs": 260,
+   "epc": null,
+   "id": 9140110,
+   "image": "https://media-resize.immowebstatic.be/classifieds/b1c517ec-40e5-5c0d-bdfb-1901321f0076/736x736/004642b50478db097650ac93c78f0570.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "550 € (+ 260 €)",
+   "rent": 550,
+   "seen_at": "2026-11-04T16:30:17+00:00",
+   "street": "Rue Guillaume Stocq 64",
+   "surface": 200,
+   "title": "Sublime maison Art Déco en colocation - Guillaume Stocq",
+   "type": "FLAT_STUDIO",
+   "url": "https://www.immoweb.be/fr/annonce/9140110"
   }
  }
 }
