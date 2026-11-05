@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-05T02:23:31+00:00",
- "online": 41,
+ "last_run": "2026-11-05T09:42:46+00:00",
+ "online": 42,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -939,6 +939,24 @@
    "title": "Ixelles I Avenue Louise",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21966769"
+  },
+  "21968356": {
+   "agency": "PRIVATE",
+   "bedrooms": 2,
+   "costs": 280,
+   "epc": null,
+   "id": 21968356,
+   "image": "https://media-resize.immowebstatic.be/classifieds/f420dc58-9234-442e-9cc2-452b5d6062fb/736x736/6745adcdc4f38f3e74b2b056cff26198.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 700 € (+ 280 €)",
+   "rent": 1700,
+   "seen_at": "2026-11-05T09:42:43+00:00",
+   "street": "Rue de l'Abbaye 48",
+   "surface": 80,
+   "title": "Magnifique appartement Ixelles - Chatelain - parc Tenbosch",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21968356"
   },
   "7192948": {
    "agency": "Expressimmo SA",
