@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-06T10:44:13+00:00",
- "online": 42,
+ "last_run": "2026-11-06T17:42:29+00:00",
+ "online": 40,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -975,6 +975,24 @@
    "title": "UCCLE – PARC BRUGMANN | SPACIEUX APPARTEMENT 3 CHAMBRES DE 1",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21971030"
+  },
+  "21972369": {
+   "agency": "We Invest Bruxelles-Sud",
+   "bedrooms": 2,
+   "costs": null,
+   "epc": "E",
+   "id": 21972369,
+   "image": "https://media-resize.immowebstatic.be/classifieds/f7438020-09aa-490d-a6bb-91107a51b786/736x736/230184a3b4c3ae31579cd9bb7daaa815.jpg",
+   "locality": "Watermael-Boitsfort",
+   "postal": "1170",
+   "price_label": "1 350 €/mois",
+   "rent": 1350,
+   "seen_at": "2026-11-06T17:42:27+00:00",
+   "street": "Avenue Coloniale 54",
+   "surface": 66,
+   "title": "WATERMAEL-BOITSFORT – AVENUE COLONIALE | APT MEUBLÉ 2 CH",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21972369"
   },
   "7192948": {
    "agency": "Expressimmo SA",
