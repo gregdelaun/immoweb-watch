@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-09T02:56:41+00:00",
- "online": 41,
+ "last_run": "2026-11-09T10:56:25+00:00",
+ "online": 42,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -993,6 +993,24 @@
    "title": "WATERMAEL-BOITSFORT – AVENUE COLONIALE | APT MEUBLÉ 2 CH",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21972369"
+  },
+  "21975456": {
+   "agency": "BATHIM RESIDENTIAL",
+   "bedrooms": 2,
+   "costs": 290,
+   "epc": "B",
+   "id": 21975456,
+   "image": "https://media-resize.immowebstatic.be/classifieds/8d4c9a92-27e3-45c7-8f35-8df7cbc561c7/736x736/ed579020b358a5f47963478ca90569d4.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 930 € (+ 290 €)",
+   "rent": 1930,
+   "seen_at": "2026-11-09T10:56:24+00:00",
+   "street": "Rue Washington 13",
+   "surface": 82,
+   "title": "Chatelain/Louise - 2 Chambres - meublé",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21975456"
   },
   "7192948": {
    "agency": "Expressimmo SA",
