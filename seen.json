@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-10T11:45:10+00:00",
- "online": 44,
+ "last_run": "2026-11-10T18:52:53+00:00",
+ "online": 45,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -1083,6 +1083,24 @@
    "title": "Rez de chaussée meublé proche Chatelain",
    "type": "GROUND_FLOOR",
    "url": "https://www.immoweb.be/fr/annonce/21979835"
+  },
+  "21980924": {
+   "agency": "PRIVATE",
+   "bedrooms": 3,
+   "costs": 350,
+   "epc": "C",
+   "id": 21980924,
+   "image": "https://media-resize.immowebstatic.be/classifieds/81aa4cb7-5b1e-4a14-b1dd-e508c2e1a414/736x736/9cb2a94899d2dee306addb2fd19482c7.jpg",
+   "locality": "Brussel",
+   "postal": "1050",
+   "price_label": "1 950 € (+ 350 €)",
+   "rent": 1950,
+   "seen_at": "2026-11-10T18:52:52+00:00",
+   "street": "Franklin Rooseveltlaan 32",
+   "surface": 112,
+   "title": "Appartement de luxe avec vue sur Bois de la Cambre",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21980924"
   },
   "7192948": {
    "agency": "Expressimmo SA",
