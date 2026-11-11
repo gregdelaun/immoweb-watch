@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-11T12:00:15+00:00",
- "online": 45,
+ "last_run": "2026-11-11T19:31:41+00:00",
+ "online": 46,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -1101,6 +1101,24 @@
    "title": "Appartement de luxe avec vue sur Bois de la Cambre",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21980924"
+  },
+  "21982499": {
+   "agency": "PRIVATE",
+   "bedrooms": 2,
+   "costs": 180,
+   "epc": "C",
+   "id": 21982499,
+   "image": "https://media-resize.immowebstatic.be/classifieds/cd7eb4d3-4777-4a1e-973f-2665ea30536b/736x736/57f75056601f2cf2638944c64e9caa76.jpg",
+   "locality": "Uccle",
+   "postal": "1180",
+   "price_label": "1 485 € (+ 180 €)",
+   "rent": 1485,
+   "seen_at": "2026-11-11T19:31:39+00:00",
+   "street": "Avenue De Fré 98",
+   "surface": null,
+   "title": "De Fré - Bel appartement entièrement meublé 2 chambres",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21982499"
   },
   "7192948": {
    "agency": "Expressimmo SA",
