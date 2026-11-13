@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-13T18:03:07+00:00",
- "online": 43,
+ "last_run": "2026-11-13T23:28:40+00:00",
+ "online": 44,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -1227,6 +1227,24 @@
    "title": "Bois de la Cambre | Appartement entièrement rénové et meublé",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21988188"
+  },
+  "21989929": {
+   "agency": "PRIVATE",
+   "bedrooms": 2,
+   "costs": 350,
+   "epc": "D",
+   "id": 21989929,
+   "image": "https://media-resize.immowebstatic.be/classifieds/811f5fc4-95e0-4fe4-a2f9-fa1830c42a85/736x736/6fb54fd77c7056547e0b0dbb19e72e74.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 600 € (+ 350 €)",
+   "rent": 1600,
+   "seen_at": "2026-11-13T23:28:38+00:00",
+   "street": "Avenue de la Couronne 442",
+   "surface": 110,
+   "title": "Appartement design près de l’ULB",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21989929"
   },
   "7192948": {
    "agency": "Expressimmo SA",
