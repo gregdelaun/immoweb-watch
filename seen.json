@@ -1,6 +1,6 @@
 {
  "failures": 0,
- "last_run": "2026-11-16T13:18:39+00:00",
+ "last_run": "2026-11-16T22:56:09+00:00",
  "online": 45,
  "seeded": true,
  "seen": {
@@ -1245,6 +1245,24 @@
    "title": "Appartement design près de l’ULB",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21989929"
+  },
+  "21991366": {
+   "agency": "PRIVATE",
+   "bedrooms": 2,
+   "costs": 150,
+   "epc": "B",
+   "id": 21991366,
+   "image": "https://media-resize.immowebstatic.be/classifieds/36d3ed9c-4cad-4461-9798-a8474725815e/736x736/ee11aa0d80f5bc4250d26136f96c0fc8.jpg",
+   "locality": "Uccle",
+   "postal": "1180",
+   "price_label": "1 850 € (+ 150 €)",
+   "rent": 1850,
+   "seen_at": "2026-11-16T22:56:07+00:00",
+   "street": "Avenue Winston Churchill 1",
+   "surface": null,
+   "title": "Penthouse lumineux avec terrasse",
+   "type": "PENTHOUSE",
+   "url": "https://www.immoweb.be/fr/annonce/21991366"
   },
   "21992674": {
    "agency": "PRIVATE",
