@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-16T04:54:08+00:00",
- "online": 44,
+ "last_run": "2026-11-16T13:18:39+00:00",
+ "online": 45,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -1245,6 +1245,24 @@
    "title": "Appartement design près de l’ULB",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21989929"
+  },
+  "21992674": {
+   "agency": "PRIVATE",
+   "bedrooms": 2,
+   "costs": 50,
+   "epc": "D",
+   "id": 21992674,
+   "image": "https://media-resize.immowebstatic.be/classifieds/769d0c9b-954a-4aee-80c2-8bb32fc8417f/736x736/40722986a8a358edb0290830fa4aef18.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 350 € (+ 50 €)",
+   "rent": 1350,
+   "seen_at": "2026-11-16T13:18:38+00:00",
+   "street": "Rue de l'Automne 28",
+   "surface": 88,
+   "title": "Appartement 2 chambres lumineux à Ixelles",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21992674"
   },
   "7192948": {
    "agency": "Expressimmo SA",
