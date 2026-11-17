@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-17T14:08:10+00:00",
- "online": 45,
+ "last_run": "2026-11-17T22:17:03+00:00",
+ "online": 46,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -1299,6 +1299,24 @@
    "title": "Appt. meublé 2CH 2SDB terrasse",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/21994756"
+  },
+  "21997010": {
+   "agency": "Immobilière Georges",
+   "bedrooms": 2,
+   "costs": 200,
+   "epc": "B",
+   "id": 21997010,
+   "image": "https://media-resize.immowebstatic.be/classifieds/56ca5e31-d31f-4f6c-957a-57e0b57ca87d/736x736/6d0e21cd6fd00e8eed48a233129889fc.jpg",
+   "locality": "Bruxelles",
+   "postal": "1000",
+   "price_label": "1 890 € (+ 200 €)",
+   "rent": 1890,
+   "seen_at": "2026-11-17T22:17:01+00:00",
+   "street": "Avenue du Brésil 10",
+   "surface": 118,
+   "title": "Magnifique appartement 2 chambres Meublé",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/21997010"
   },
   "7192948": {
    "agency": "Expressimmo SA",
