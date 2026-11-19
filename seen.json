@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-19T02:02:17+00:00",
- "online": 48,
+ "last_run": "2026-11-19T10:12:05+00:00",
+ "online": 50,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -1389,6 +1389,24 @@
    "title": "Vivier d'Oie - Bel appartement rénové et joliment meublé 2 chambres",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/22001608"
+  },
+  "22002138": {
+   "agency": "PRIVATE",
+   "bedrooms": 2,
+   "costs": 195,
+   "epc": "E",
+   "id": 22002138,
+   "image": "https://media-resize.immowebstatic.be/classifieds/6fa855ef-f1de-40a4-aab5-60d4014a46ae/736x736/4a50855baddc7a011cdb42ef2638e02b.jpg",
+   "locality": "Ixelles",
+   "postal": "1050",
+   "price_label": "1 275 € (+ 195 €)",
+   "rent": 1275,
+   "seen_at": "2026-11-19T10:12:02+00:00",
+   "street": "Rue Émile Claus 46",
+   "surface": 80,
+   "title": "Bel appartement 2 chambres avec balcon à Ixelles",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/22002138"
   },
   "7192948": {
    "agency": "Expressimmo SA",
