@@ -1,6 +1,6 @@
 {
  "failures": 0,
- "last_run": "2026-11-19T10:12:05+00:00",
+ "last_run": "2026-11-19T19:01:18+00:00",
  "online": 50,
  "seeded": true,
  "seen": {
@@ -1407,6 +1407,24 @@
    "title": "Bel appartement 2 chambres avec balcon à Ixelles",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/22002138"
+  },
+  "22004048": {
+   "agency": "VICTOIRE JUNOT - Location",
+   "bedrooms": 2,
+   "costs": 100,
+   "epc": "B",
+   "id": 22004048,
+   "image": "https://media-resize.immowebstatic.be/classifieds/d4061e87-8d35-4cf0-88d6-c46dfd5e2b96/736x736/53a26f0ff643b0b422035ee98b6d1a46.jpg",
+   "locality": "Brussels",
+   "postal": "1050",
+   "price_label": "2 100 € (+ 100 €)",
+   "rent": 2100,
+   "seen_at": "2026-11-19T19:01:16+00:00",
+   "street": "AVENUE LOUISE 167",
+   "surface": 102,
+   "title": "Ixelles – Avenue Louise – Appartement meublé 2 chambres avec parking",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/22004048"
   },
   "7192948": {
    "agency": "Expressimmo SA",
