@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-20T08:38:04+00:00",
- "online": 50,
+ "last_run": "2026-11-20T17:15:33+00:00",
+ "online": 49,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -1425,6 +1425,24 @@
    "title": "Ixelles – Avenue Louise – Appartement meublé 2 chambres avec parking",
    "type": "APARTMENT",
    "url": "https://www.immoweb.be/fr/annonce/22004048"
+  },
+  "22007445": {
+   "agency": "PRIVATE",
+   "bedrooms": 2,
+   "costs": 285,
+   "epc": "E",
+   "id": 22007445,
+   "image": "https://media-resize.immowebstatic.be/classifieds/ba3d3fdc-c2ce-4c96-8e5b-379c16c31d36/736x736/39fa77e07085d5c56758212b8a3044a4.png",
+   "locality": "Uccle",
+   "postal": "1180",
+   "price_label": "1 750 € (+ 285 €)",
+   "rent": 1750,
+   "seen_at": "2026-11-20T17:15:31+00:00",
+   "street": "Avenue de l'Observatoire 3a",
+   "surface": null,
+   "title": "Appartement meublé rez-de-chaussée sans vis-à-vis",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/22007445"
   },
   "7192948": {
    "agency": "Expressimmo SA",
