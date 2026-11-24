@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-24T15:06:06+00:00",
- "online": 52,
+ "last_run": "2026-11-24T23:51:35+00:00",
+ "online": 53,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -1623,6 +1623,24 @@
    "title": "Rez de chaussée meublé proche Chatelain",
    "type": "GROUND_FLOOR",
    "url": "https://www.immoweb.be/fr/annonce/22014553"
+  },
+  "22015903": {
+   "agency": "PRIVATE",
+   "bedrooms": 2,
+   "costs": 100,
+   "epc": "D",
+   "id": 22015903,
+   "image": "https://media-resize.immowebstatic.be/classifieds/a5d62c0f-5d81-4934-af4f-26fea11f90de/736x736/3f3281bd239f57dfe4a609e10db50d22.jpg",
+   "locality": "Elsene",
+   "postal": "1050",
+   "price_label": "1 450 € (+ 100 €)",
+   "rent": 1450,
+   "seen_at": "2026-11-24T23:51:33+00:00",
+   "street": "Herfststraat 48-50",
+   "surface": 84,
+   "title": "appartement de 2 chambres près du cimetière d'Ixelles",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/22015903"
   },
   "7192948": {
    "agency": "Expressimmo SA",
