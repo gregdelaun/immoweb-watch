@@ -1,7 +1,7 @@
 {
  "failures": 0,
- "last_run": "2026-11-27T10:57:02+00:00",
- "online": 55,
+ "last_run": "2026-11-27T19:48:39+00:00",
+ "online": 54,
  "seeded": true,
  "seen": {
   "20589006": {
@@ -1767,6 +1767,24 @@
    "title": "2 chambre",
    "type": "PENTHOUSE",
    "url": "https://www.immoweb.be/fr/annonce/22020225"
+  },
+  "22023928": {
+   "agency": "IMMOCOM",
+   "bedrooms": 3,
+   "costs": 350,
+   "epc": null,
+   "id": 22023928,
+   "image": "https://media-resize.immowebstatic.be/classifieds/3c4cacbc-9a86-41e5-adc0-ab72840cbaaa/736x736/c8a9733adb94320b883dba7b9d78fef9.jpg",
+   "locality": "UCCLE",
+   "postal": "1180",
+   "price_label": "650 € (+ 350 €)",
+   "rent": 650,
+   "seen_at": "2026-11-27T19:48:37+00:00",
+   "street": "longevelde 113a",
+   "surface": 150,
+   "title": "3 chambres",
+   "type": "APARTMENT",
+   "url": "https://www.immoweb.be/fr/annonce/22023928"
   },
   "7192948": {
    "agency": "Expressimmo SA",
